@@ -1,13 +1,11 @@
 {
-  "name": "aprender",
+  "name": "learn-back",
   "version": "1.0.0",
-  "main": "script.js",
-  "scripts": {
-     "dev" : "nodemon script.js"
-  },
-  "author": "valen",
-  "license": "ISC",
-  "description": "",
+  "main": "index.js",
+  "author": "Valen.perti <valentinoperticarari8@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
   "devDependencies": {
     "nodemon": "^3.1.4"
   }
