@@ -5,6 +5,9 @@
   "author": "Valen.perti <valentinoperticarari8@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "dev" : "nodemon script.js"
+  },
   "dependencies": {},
   "devDependencies": {
     "nodemon": "^3.1.4"
